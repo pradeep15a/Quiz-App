@@ -7,6 +7,7 @@ const table = {
   politics: 24,
   sciencen: 17,
   animemanga: 31,
+  gk: 9,
 }
 
 const API_ENDPOINT = 'https://opentdb.com/api.php?'
