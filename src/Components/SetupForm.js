@@ -36,7 +36,7 @@ const SetupForm = () => {
               <option value='gk'>general knowlwgde</option>
               <option value='sports'>sports</option>
               <option value='history'>history</option>
-              <option value='politics'>politics</option>
+              <option value='computer'>computers</option>
               <option value='sciencen'>science and nature</option>
               <option value='animemanga'>anime and manga</option>
             </select>
